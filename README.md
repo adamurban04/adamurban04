@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adamurban04
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m a computer science student at the University of Limerick
 - 📫 Instagram :@adam_urbanovey
 
 <!---
