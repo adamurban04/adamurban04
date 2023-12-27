@@ -1,14 +1,14 @@
-Quick Intro 🚀
-🎓 Currently navigating the world of computer science.
-🌍 Studying at the University of Limerick.
+Quick Intro 🚀  
+🎓 Currently navigating the world of computer science.  
+🌍 Studying at the University of Limerick.  
 
-📫 Let's connect:
-
+📫 Let's connect:  
+  
 Instagram: @adam_urbanovey  
-LinkedIn: linkedin.com/in/adamurban73/
-
-I'm enthusiastic about discussions, coding projects, and learning opportunities. Don't hesitate to drop me a message!
-
+LinkedIn: linkedin.com/in/adamurban73/  
+  
+I'm enthusiastic about discussions, coding projects, and learning opportunities. Don't hesitate to drop me a message!  
+  
 Happy coding! 🌟
 
 <!---
