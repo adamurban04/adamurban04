@@ -4,7 +4,7 @@ Quick Intro 🚀
 
 📫 Let's connect:
 
-Instagram: @adam_urbanovey
+Instagram: @adam_urbanovey  
 LinkedIn: linkedin.com/in/adamurban73/
 
 I'm enthusiastic about discussions, coding projects, and learning opportunities. Don't hesitate to drop me a message!
