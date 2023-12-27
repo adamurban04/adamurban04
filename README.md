@@ -1,4 +1,4 @@
-Quick Intro 🚀  
+**Quick Intro 🚀**  
 🎓 Currently navigating the world of computer science.  
 🌍 Studying at the University of Limerick.  
 
