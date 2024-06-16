@@ -4,7 +4,7 @@
 
 📫 Let's connect:  
   
-LinkedIn: [linkedin.com/in/adamurban73/  ](https://www.linkedin.com/in/adamurban73/)
+LinkedIn: [linkedin.com/in/adamurban73/  ](https://www.linkedin.com/in/adamurban73/)  
 Email: adamurban73@gmail.com
   
 I'm enthusiastic about discussions, coding projects, and learning opportunities.  
