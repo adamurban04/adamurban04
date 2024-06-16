@@ -1,11 +1,11 @@
 **Quick Intro 🚀**  
 🎓 Currently navigating the world of computer science.  
-🌍 Studying at the University of Limerick.  
+🌍 Studying at the [University of Limerick](https://www.ul.ie/).  
 
 📫 Let's connect:  
   
-Instagram: @adam_urbanovey  
 LinkedIn: linkedin.com/in/adamurban73/  
+Email: adamurban73@gmail.com
   
 I'm enthusiastic about discussions, coding projects, and learning opportunities.  
 Don't hesitate to drop me a message!  
