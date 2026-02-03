@@ -8,9 +8,7 @@ LinkedIn: [linkedin.com/in/adamurban73/  ](https://www.linkedin.com/in/adamurban
 Email: adamurban73@gmail.com
   
 I'm enthusiastic about discussions, coding projects, and learning opportunities.  
-Don't hesitate to drop me a message!  
-  
-Happy coding! 🌟  
+Don't hesitate to drop me a message!
   
 My Personal Website: https://adamurban04.github.io/portfolio/
 <!---
